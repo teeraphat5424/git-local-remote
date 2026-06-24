@@ -1,2 +1,3 @@
-# Project Git by ธีรพัฒน์
-## Welcome to Git of ธีรพัฒน์
+# Project Git by เอกรินทร์
+
+Welcome to Git of เอกรินทร์
